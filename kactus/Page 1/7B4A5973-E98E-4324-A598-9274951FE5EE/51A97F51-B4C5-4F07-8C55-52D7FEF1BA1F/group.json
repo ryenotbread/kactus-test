@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "51A97F51-B4C5-4F07-8C55-52D7FEF1BA1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 301,
+    "width": 193,
+    "x": 519,
+    "y": 327
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D82541BE-524B-4016-B8F0-5AE3A0231D60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31A03D5A-7099-42D6-97B0-F4597F424657"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2EE3F9F9-313A-420C-A3C5-41373BC17B19"
+    }
+  ],
+  "name": "cactus main",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
