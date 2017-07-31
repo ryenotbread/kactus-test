@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rye.castillo/.nuget/packages"
+    ]
+  }
+}
