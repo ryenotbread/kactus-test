@@ -1,8 +1,0 @@
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
-/Users/rye.castillo/Documents/kactus-test/kactus-test/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
