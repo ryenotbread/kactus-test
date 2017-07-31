@@ -100,6 +100,10 @@
     {
       "class": "shapeGroup",
       "id": "322B3FEB-9DF3-4487-8D3D-800858C3E632"
+    },
+    {
+      "class": "text",
+      "id": "66CBD500-3CCF-478C-AF0B-EC5CAEF993C3"
     }
   ],
   "name": "kactus test",
